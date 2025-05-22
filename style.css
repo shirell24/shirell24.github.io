@@ -1,13 +1,14 @@
 body {
  font-family: 'Arial', san-serif; 
  color: #17507C;
- background: url(backround .jpg) no-repeat center center fixed;
+ background: url('backround .jpg') no-repeat center center fixed;
  background-size: cover;
  text-align: center'
- backdrop filter: blur(2px);
 }
 
 h1 {
  font-family; 'Bodoni 72', serif;
  text-align: center;
 }
+
+img 

@@ -6,7 +6,9 @@ body {
  text-align: center;
 }
 
-
 img {
-
+width: auto;
+height: 300px;
+justify-content: center;
+gap: 20rem;
 }
